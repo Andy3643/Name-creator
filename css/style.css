@@ -1,0 +1,10 @@
+
+.calendericon{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+#calender{
+    color: aquamarine;
+}
+.card h4{text-align: center;}
