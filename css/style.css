@@ -9,4 +9,17 @@ body{
 #calender{
     color: aquamarine;
 }
-.card h4{text-align: center;}
+.card-header{
+    background: aquamarine;
+}
+.card h4{
+    color: rgb(13,12,58);
+    text-align: center;
+}
+.card-title{
+    font-size: 23px;
+    color: rgb(13,12,58);
+}
+.card-text{
+    font-size: 21px;
+}
