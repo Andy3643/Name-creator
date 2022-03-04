@@ -1,4 +1,6 @@
-
+body{
+    background: rgb(13,12,58);
+}
 .calendericon{
     display: flex;
     justify-content: center;
