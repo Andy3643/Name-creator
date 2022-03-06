@@ -2,3 +2,22 @@ body{
     background: rgb(13,12,58);
     color: white;
 }
+.about{
+    display: flex;
+}
+.description{
+    font-size: 23px;
+    padding: 130px 0;
+}
+#givetry{
+    font-weight: bolder;
+    text-align: center;
+    font-size: 30px;
+}
+.form{
+   
+    margin: 0 60px;
+}
+.form input{
+    height: 30px;
+}
