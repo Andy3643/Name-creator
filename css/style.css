@@ -1,25 +1,4 @@
 body{
     background: rgb(13,12,58);
-}
-.calendericon{
-    display: flex;
-    justify-content: center;
-    padding: 50px;
-}
-#calender{
-    color: aquamarine;
-}
-.card-header{
-    background: aquamarine;
-}
-.card h4{
-    color: rgb(13,12,58);
-    text-align: center;
-}
-.card-title{
-    font-size: 23px;
-    color: rgb(13,12,58);
-}
-.card-text{
-    font-size: 21px;
+    color: white;
 }
