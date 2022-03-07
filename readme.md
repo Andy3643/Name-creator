@@ -23,7 +23,7 @@
 * JS - making the bussines logic.
 
 ## Live Link
-#### African Name Calculator - ()
+#### African Name Calculator - (https://andy3643.github.io/Name-creator/)
 
 [Go Back to the top](#African-Name-Calculator)
 
