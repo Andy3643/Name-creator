@@ -34,3 +34,15 @@ body{
     border: none;
     font-size: large;
 }
+/* commit from here */
+#results{
+    display: none;
+    background:linear-gradient( rgba(0,0,0,0.5),rgba(0,0,0,0.5) ),url(../images/pattern.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    padding: 30px;
+    margin: 30px;
+    font-size: 60px;
+    font-weight: 200px;
+}
