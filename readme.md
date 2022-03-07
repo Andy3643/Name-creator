@@ -31,11 +31,11 @@
 
 [MIT License](LICENSE)
 
-[Go Back to the top](#birthday-and-akan-name-generator)
+[Go Back to the top](#African-Name-Calculator)
 
 ## Authors Info
 
 Github Profile - [Andy3643](https://github.com/Andy3643)
 
 
-[Go Back to the top](#African_Name_Calculator)
+[Go Back to the top](#African-Name-Calculator)
