@@ -2,6 +2,19 @@ body{
     background: rgb(13,12,58);
     color: white;
 }
+nav{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    background-color: white;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+}
+nav ul li{
+    margin: 0 40px;
+}
 .about{
     display: flex;
 }

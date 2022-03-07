@@ -13,6 +13,7 @@ button.addEventListener("click",()=>{
         var day = ourdate.getDay();
 
         var print = document.getElementById("results");
+        
 
       if(gender=="Female"){
           print.style.display="block";
