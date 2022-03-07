@@ -14,7 +14,14 @@ button.addEventListener("click",()=>{
 
         var print = document.getElementById("results");
 
-
+      if(gender=="Female"){
+          print.style.display="block";
+           print.innerHTML = "You were born on a "+ dayofweek[day]+"<br>"+"Your name is "+ female[day];
+      }
+      else  {
+        print.style.display="block";
+        print.innerHTML = "You were born on a "+ dayofweek[day]+"<br>"+"Your name is "+ male[day];
+      }
 
 
 
