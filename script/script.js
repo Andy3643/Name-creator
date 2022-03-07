@@ -12,7 +12,7 @@ button.addEventListener("click",()=>{
         var ourdate = new Date(yearOfBirth +'/'+monthOfBirth+'/'+dateOfBirth);
         var day = ourdate.getDay();
 
-
+        var print = document.getElementById("results");
 
 
 
